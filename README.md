@@ -4,7 +4,7 @@ This is an interactive c++20 program to construct NFA, DFA, and minimized DFA fr
 ## Usage
 1. git clone https://github.com/wyyadd/automata-from-regex.git
 2. cd automata-from-regex/
-3. cmake cmake CMakeLists.txt -B Build
+3. cmake CMakeLists.txt -B Build
 4. cd /Build
 5. make
 6. ./automata-from-regex
